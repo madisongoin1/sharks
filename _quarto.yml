@@ -10,6 +10,8 @@ website:
         text: Home
       - href: map.qmd
         text: Map
+      - href: trends.qmd
+        text: Trends
 
 format:
   html:
@@ -20,4 +22,5 @@ format:
 
 execute:
   echo: false
+
 

@@ -3,7 +3,8 @@
 title: "Shark Attacks"
 ---
 
-# Shark Attacks
+The Global Shark Attack File (GSAF) is a worldwide database that documents reported shark attacks and incidents. It provides information about where and when encounters occur, along with details such as the activities people were doing at the time.
 
-Welcome to my Shark Attacks website!
+Although sharks are often portrayed as dangerous predators, the fear surrounding them is generally out of proportion to the actual risk. Shark attacks are rare, and the likelihood of being seriously injured by a shark is very low compared with many everyday risks. Understanding the data can help replace exaggerated fears with a more realistic perspective.
 
+This website explores shark attack data through two pages. The **Map** page helps show where reported attacks have occurred, while the **Trends** page explores patterns in the data, including which activities are associated with the most reported incidents.

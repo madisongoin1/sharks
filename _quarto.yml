@@ -4,4 +4,20 @@ project:
 
 website:
   title: "Shark Attacks"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: map.qmd
+        text: Map
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    toc: true
+
+execute:
+  echo: false
 
